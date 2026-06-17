@@ -1,0 +1,9 @@
+{
+  "name": "SmartLock Demo",
+  "short_name": "SmartLock Demo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1F2D29",
+  "theme_color": "#1F2D29"
+}
